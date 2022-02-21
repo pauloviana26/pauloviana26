@@ -2,7 +2,7 @@
 
 ## Olá!
 
-Atualmente trabalho com desenvolvimento java pleno na empresa South System :computer:
+Atualmente trabalho como desenvolvedor java PL na empresa South System :computer:
 
 :blue_book:  &nbsp; Estou estudando Engenharia de Computação e meu foco sempre foi trabalhar com programação;
 <br/> :computer: &nbsp; Atualmente trabalho com as tecnologias Spring Boot e Spring Cloud;
