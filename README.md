@@ -2,7 +2,7 @@
 
 ## Olá!
 
-Sou desenvolvedor java, e estou atualmente trabalhando em Portugal como consultor na Velv by Onrising alocado na CGI.:computer:
+Sou desenvolvedor java, e estou atualmente trabalhando em Portugal como consultor na Velv by Onrising alocado na CGI. :computer:
 
 :blue_book:  &nbsp; Sou formado em Análise e Desenvolvimento de Sistemas e meu foco sempre foi trabalhar com programação;
 <br/> :computer: &nbsp; Atualmente trabalho com as tecnologias Spring Boot e Spring Cloud;
